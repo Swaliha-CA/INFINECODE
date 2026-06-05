@@ -3,6 +3,11 @@
 A full-stack Machine Learning Dataset Explorer built with **React + TypeScript + Tailwind CSS v3** (frontend) and **FastAPI + SQLite** (backend).
 
 ---
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="ML Dataset Explorer Dashboard" width="100%">
+</p>
 
 ## Features
 
